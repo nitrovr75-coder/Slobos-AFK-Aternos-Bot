@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KingVR14211253125.aternos.me",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "KingVR14211253125.aternos.me",
     "port": 53364,
     "version": "",
     "try-creative": false
